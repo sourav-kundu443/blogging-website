@@ -1,0 +1,41 @@
+
+    /*----font-family Abel-----*/
+
+@font-face{
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+    /*----font-family Anton---*/
+
+@font-face{
+    font-family: Anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+    /*-----font-family: Courgette-----*/
+
+@font-face{
+    font-family: courgette;
+    src: url('../fonts/Courgette/Courgette-Regular.ttf');
+}
+    /*------font-family:Facinate_Inline-----*/
+
+@font-face{
+    font-family: Facinate;
+    src: url('../fonts/Fascinate_Inline/FascinateInline-Regular.ttf');
+}
+/*------font-family: Roboto------*/
+@font-face{
+    font-family: Roboto;
+    src: url('../fonts/Roboto_Condensed/RobotoCondensed-Bold.ttf');
+}
+
+/*------font-family: Grenze------*/
+@font-face{
+    font-family: Grenze;
+    src: url('../fonts/Grenze/Grenze-ExtraBoldItalic.ttf');
+}
+/*------font-family: Playfair------*/
+@font-face{
+    font-family: Playfair;
+    src: url('../fonts/Playfair_Display/PlayfairDisplay-BoldItalic.ttf');
+}
